@@ -1,0 +1,22 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+}
+.container, .button {
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+}
+input,select {
+  width: 80px;
+}
+.button {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 120px;
+}
+.button:hover {
+  background: #eee;
+}
