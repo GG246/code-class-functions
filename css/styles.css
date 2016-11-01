@@ -6,6 +6,9 @@ body {
   display: table;
   text-align: center;
 }
+p {
+  font-size: 1.2em;
+}
 input,select {
   width: 80px;
 }
